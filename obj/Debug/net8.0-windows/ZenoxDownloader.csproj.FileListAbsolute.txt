@@ -1,0 +1,48 @@
+C:\Users\i7\Downloads\ZenoxDownloader\obj\Debug\net8.0-windows\App.baml
+C:\Users\i7\Downloads\ZenoxDownloader\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\i7\Downloads\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader_MarkupCompile.cache
+C:\Users\i7\Downloads\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader_MarkupCompile.lref
+C:\Users\i7\Downloads\ZenoxDownloader\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\i7\Downloads\ZenoxDownloader\bin\Debug\net8.0-windows\yt-dlp.exe
+C:\Users\i7\Downloads\ZenoxDownloader\bin\Debug\net8.0-windows\ZenoxDownloader.exe
+C:\Users\i7\Downloads\ZenoxDownloader\bin\Debug\net8.0-windows\ZenoxDownloader.deps.json
+C:\Users\i7\Downloads\ZenoxDownloader\bin\Debug\net8.0-windows\ZenoxDownloader.runtimeconfig.json
+C:\Users\i7\Downloads\ZenoxDownloader\bin\Debug\net8.0-windows\ZenoxDownloader.dll
+C:\Users\i7\Downloads\ZenoxDownloader\bin\Debug\net8.0-windows\ZenoxDownloader.pdb
+C:\Users\i7\Downloads\ZenoxDownloader\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\i7\Downloads\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader.g.resources
+C:\Users\i7\Downloads\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i7\Downloads\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader.AssemblyInfoInputs.cache
+C:\Users\i7\Downloads\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader.AssemblyInfo.cs
+C:\Users\i7\Downloads\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader.csproj.CoreCompileInputs.cache
+C:\Users\i7\Downloads\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader.dll
+C:\Users\i7\Downloads\ZenoxDownloader\obj\Debug\net8.0-windows\refint\ZenoxDownloader.dll
+C:\Users\i7\Downloads\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader.pdb
+C:\Users\i7\Downloads\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader.genruntimeconfig.cache
+C:\Users\i7\Downloads\ZenoxDownloader\obj\Debug\net8.0-windows\ref\ZenoxDownloader.dll
+C:\Users\i7\Downloads\ZenoxDownloader\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\bin\Debug\net8.0-windows\yt-dlp.exe
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\bin\Debug\net8.0-windows\ZenoxDownloader.exe
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\bin\Debug\net8.0-windows\ZenoxDownloader.deps.json
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\bin\Debug\net8.0-windows\ZenoxDownloader.runtimeconfig.json
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\bin\Debug\net8.0-windows\ZenoxDownloader.dll
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\bin\Debug\net8.0-windows\ZenoxDownloader.pdb
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\obj\Debug\net8.0-windows\TrimVideoDialog.baml
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\obj\Debug\net8.0-windows\App.baml
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\obj\Debug\net8.0-windows\TrimVideoDialog.g.cs
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader_MarkupCompile.cache
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader_MarkupCompile.lref
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader.g.resources
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader.AssemblyInfoInputs.cache
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader.AssemblyInfo.cs
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader.csproj.CoreCompileInputs.cache
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader.dll
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\obj\Debug\net8.0-windows\refint\ZenoxDownloader.dll
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader.pdb
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\obj\Debug\net8.0-windows\ZenoxDownloader.genruntimeconfig.cache
+C:\Users\i7\Downloads\No Need\Rapet\ZenoxDownloader\obj\Debug\net8.0-windows\ref\ZenoxDownloader.dll
